@@ -344,7 +344,7 @@
         </div>
       </div>
 
-      <div class="lgpd">🔒 Seus dados estão protegidos. Uso exclusivo para esta simulação comercial Rodlider.</div>
+      <div class="lgpd">🔒 Seus dados estão protegidos. Uso exclusivo para esta simulação comercial.</div>
     </form>
   </div>
 
@@ -514,7 +514,7 @@
         `⏳ *Previsão:* ${previsaoSelect.value}%0A` +
         `💵 *Entrada:* ${entradaFinalMsg}`;
 
-      window.open(`https://api.whatsapp.com/send?phone=5598984533013&text=${msg}`, '_blank');
+      window.open(`https://api.whatsapp.com/send?phone=5598985263537&text=${msg}`, '_blank');
     });
   </script>
 </body>
